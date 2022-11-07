@@ -1,6 +1,6 @@
 Hack-A-Day is a project I'm doing in November, where I try to make 30 new projects, in 30 days.
 
-# Day 06: Hack-An-Asteroid
+# Day 07: Hack-An-Asteroid
 
 This is an asteroid clone. There are 4 levels of increasing difficulty.
 
@@ -10,7 +10,9 @@ Controls: Mouse to aim, W or up-arrow to accelerate, left click to shoot.
 
 Demo available at [here](https://tilde.za3k.com/hackaday/icecube).
 
-Source not available for this one, sorry. Unity projects are hard to move and I couldn't figure it out.
+Source available [here](https://github.com/za3k/day07_asteroid.git).
+
+Fun fact, my original plan for this one was to just let the asteroids keep splitting forever, as a joke.
 
 ### Credits
 
