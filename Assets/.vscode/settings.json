@@ -1,0 +1,7 @@
+{
+    "omnisharp.enableImportCompletion": false,
+    "files.exclude": {
+        "**/*.meta": true,
+        "**/*.prefab": true
+    }
+}
