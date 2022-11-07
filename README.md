@@ -6,7 +6,7 @@ This is an asteroid clone. There are 4 levels of increasing difficulty.
 
 Controls: Mouse to aim, W or up-arrow to accelerate, left click to shoot.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 
 Demo available at [here](https://tilde.za3k.com/hackaday/asteroid).
 
