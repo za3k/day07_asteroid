@@ -8,7 +8,7 @@ Controls: Mouse to aim, W or up-arrow to accelerate, left click to shoot.
 
 ![Screenshot](screenshot.png)
 
-Demo available at [here](https://tilde.za3k.com/hackaday/icecube).
+Demo available at [here](https://tilde.za3k.com/hackaday/asteroid).
 
 Source available [here](https://github.com/za3k/day07_asteroid.git).
 
